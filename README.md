@@ -1,3 +1,5 @@
+[![codebeat badge](https://codebeat.co/badges/78dbe179-f2f3-45ba-8862-d4667431055b)](https://codebeat.co/projects/github-com-omwakwe-upload-gh-pages)
+
 # Upload
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.1.
